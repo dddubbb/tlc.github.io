@@ -19,7 +19,7 @@ body{
 #bruce_banner_cntr{
     width: 50vw;
     height: auto;
-    background-color: blue;
+    background-color: black;
     display: flex;
     justify-content: center;
 }
