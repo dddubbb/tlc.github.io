@@ -31,13 +31,13 @@ body{
 }
 
 #wishlist_now_cntr{
-    width: 10vw;
-    height: 2vw;
-    background-color: midnightblue;
+    display: flex;
+    gap: 0;
 }   
 
 #wishlist_now_cntr:hover{
-    width: 100vw;
-    height: 2vw;
-    background-color: midnightblue;
-}   
+
+}
+#david_youre_gonna_get_sued_by_disney:hover{
+    filter: sepia(00%) saturate(200%) brightness(150%) hue-rotate(0deg);
+}
